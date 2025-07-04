@@ -1,4 +1,3 @@
 # 100daysofcodePython
-back to the basics, just for the love of the game
+back to the basics
 
-on day 1...
